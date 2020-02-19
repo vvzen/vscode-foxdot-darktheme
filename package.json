@@ -1,7 +1,7 @@
 {
     "name": "vscode-foxdot-darktheme",
     "displayName": "vscode-foxdot-darktheme",
-    "description": "Dark Theme for live coding with FoxDot",
+    "description": "A Dark Theme for live coding with FoxDot",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.42.0"
