@@ -17,5 +17,9 @@
                 "path": "./themes/vvzen FoxDot Dark Theme-color-theme.json"
             }
         ]
+    },
+    "publisher": "vvzen",
+    "repository": {
+        "url": "https://github.com/vvzen/vscode-foxdot-darktheme"
     }
 }
